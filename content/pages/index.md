@@ -9,7 +9,7 @@ sections:
     content: |
       Fieldwire powers over 1,000,000 jobsites worldwide.
     actions:
-      - label: GET STARTED FREE
+      - label: SIGN UP
         url: /features
         style: primary
   - section_id: features
