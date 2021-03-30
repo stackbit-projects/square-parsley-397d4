@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Jobsite management software for construction teams
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Fieldwire powers over 1,000,000 jobsites worldwide.
     actions:
       - label: Learn More
         url: /features
